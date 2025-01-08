@@ -10,10 +10,9 @@ I will also update this list periodically as I see with respect to relevance to 
 - [Cybersecurity Web Tools and Cheat Sheets](Tools.md)
 - [Governance, Risk Management, and Compliance (GRC)](GRC.md)
 - [Research, Intelligence, and Trends](Security_Intelligence.md)
-
+- [Content/Trainings/Creators I Recommend](Cyber_Media.md)
 
 #To sort/Add
 - Maybe add QRC too web tools as the cheat sheets
 - Frameworks to GRC. (CVE CVSS NIST-SP NVD) or to Key Concepts
 - Key Concepts (& Frameworks?)
-- Content/Trainings/Creators I Recommend
