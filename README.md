@@ -8,8 +8,7 @@ I will also update this list periodically as I see with respect to relevance to 
 
 # Resource Categories
 - Cybersecurity Web Tools
-- Other useful tools
-- Public Organizations
-- Private Organizations
-- Informational Reports
+- Policy Makers and Important Programs
+- Trend Reports/Security Researchers
+- Cybersecurity Concepts
 - Content/Trainings/Creators I Recommend
