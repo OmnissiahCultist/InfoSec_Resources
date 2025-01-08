@@ -14,5 +14,6 @@ I will also update this list periodically as I see with respect to relevance to 
 
 #To sort/Add
 - Maybe add QRC too web tools as the cheat sheets
+- Frameworks to GRC. (CVE CVSS NIST-SP NVD)
 - Cybersecurity Concepts
 - Content/Trainings/Creators I Recommend
