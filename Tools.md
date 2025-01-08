@@ -25,6 +25,18 @@
 
 <br>
 
+## Cheat Sheets for Incident Response
+
+### SANS Ultimate List of Cheat Sheets 🛡️  
+- **Website**: [https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)  
+- **TLDR**: A comprehensive collection of cheat sheets for digital forensics, incident response, and general IT security, provided by SANS Institute.
+
+### OWASP Cheat Sheet Series 🛡️  
+- **Website**: [https://cheatsheetseries.owasp.org/index.html](https://cheatsheetseries.owasp.org/index.html)  
+- **TLDR**: A collection of concise, actionable security best practices for developers and security professionals, maintained by OWASP.
+
+<br>
+
 ## Open Source Intelligence (OSINT)
 
 ### OSINT Framework 🛡️
