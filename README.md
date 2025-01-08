@@ -9,9 +9,10 @@ I will also update this list periodically as I see with respect to relevance to 
 # Resource Categories
 - [Cybersecurity Web Tools](Tools.md)
 - [Governance, Risk, and Compliance (GRC)](GRC.md)
+- [Research, Intelligence, and Trends](Security Intelligence.md)
+
 
 #To sort/Add
 - Maybe add QRC too web tools as the cheat sheets
-- Trend Reports/Security Researchers
 - Cybersecurity Concepts
 - Content/Trainings/Creators I Recommend
