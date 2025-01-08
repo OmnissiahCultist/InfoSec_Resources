@@ -10,8 +10,9 @@ I will also update this list periodically as I see with respect to relevance to 
 - [Cybersecurity Web Tools and Cheat Sheets](Tools.md)
 - [Governance, Risk Management, and Compliance (GRC)](GRC.md)
 - [Research, Intelligence, and Trends](Security_Intelligence.md)
+- [Key Concepts & Frameworks](Concepts&Frameworks.md)
 - [Content/Trainings/Creators I Recommend](Cyber_Media.md)
 
 #To do
 - Merge formatting, de-ai things to make in your own words, choose between having the webtools as the base to change the format for everything else or not.
-- Key Concepts and Frameworks (CVE CVSS NIST-SP NVD, pyramid of pain,) 
+- Decide on tone, naming conventions, and the organization of the document
