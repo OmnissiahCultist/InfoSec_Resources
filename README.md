@@ -12,7 +12,6 @@ I will also update this list periodically as I see with respect to relevance to 
 - [Research, Intelligence, and Trends](Security_Intelligence.md)
 - [Content/Trainings/Creators I Recommend](Cyber_Media.md)
 
-#To sort/Add
-- Maybe add QRC too web tools as the cheat sheets
-- Frameworks to GRC. (CVE CVSS NIST-SP NVD) or to Key Concepts
-- Key Concepts (& Frameworks?)
+#To do
+- Merge formatting, de-ai things to make in your own words, choose between having the webtools as the base to change the format for everything else or not.
+- Key Concepts and Frameworks (CVE CVSS NIST-SP NVD, pyramid of pain,) 
