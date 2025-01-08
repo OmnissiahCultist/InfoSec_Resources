@@ -16,3 +16,4 @@ I will also update this list periodically as I see with respect to relevance to 
 #To do
 - Merge formatting, de-ai things to make in your own words, choose between having the webtools as the base to change the format for everything else or not.
 - Decide on tone, naming conventions, and the organization of the document
+- Maybe make the CVE a sub-sub file
