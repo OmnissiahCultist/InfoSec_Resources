@@ -1,4 +1,4 @@
-# Government Bodies, Regulations, and Compliance 🏛️
+# GRC regulational bodies, important policies. These are sorted by global or domestic (US).
 
 This section includes **global and domestic agencies**, **laws**, and **compliance standards** that are critical to cybersecurity practices. These resources provide frameworks, best practices, and regulatory guidelines that organizations must adhere to in different industries.
 
