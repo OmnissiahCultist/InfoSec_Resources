@@ -21,6 +21,8 @@ This section includes **global and domestic agencies**, **laws**, and **complian
 - **Website**: [https://www.ietf.org](https://www.ietf.org)  
 - **TLDR**: Develops and promotes voluntary internet standards, including protocols like HTTP and DNS. Their publications are known as RFCs (Requests for Comments).
 
+<br>
+
 ---
 
 ## Domestic (US) Agencies and Regulations 🇺🇸  
