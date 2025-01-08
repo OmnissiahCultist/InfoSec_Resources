@@ -11,7 +11,7 @@ I will also update this list periodically as I see with respect to relevance to 
 - [Governance, Risk, and Compliance (GRC)](GRC.md)
 
 #To sort/Add
-- Policy Makers and Important Programs
+- Maybe add QRC too web tools as the cheat sheets
 - Trend Reports/Security Researchers
 - Cybersecurity Concepts
 - Content/Trainings/Creators I Recommend
