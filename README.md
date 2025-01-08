@@ -8,7 +8,7 @@ I will also update this list periodically as I see with respect to relevance to 
 
 # Resource Categories
 - [Cybersecurity Web Tools and Cheat Sheets](Tools.md)
-- [Governance, Risk, and Compliance (GRC)](GRC.md)
+- [Governance, Risk Management, and Compliance (GRC)](GRC.md)
 - [Research, Intelligence, and Trends](Security_Intelligence.md)
 
 
