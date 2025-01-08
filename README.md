@@ -8,6 +8,9 @@ I will also update this list periodically as I see with respect to relevance to 
 
 # Resource Categories
 - [Cybersecurity Web Tools](Tools.md)
+- [Governance, Risk, and Compliance (GRC)](GRC.md)
+
+#To sort/Add
 - Policy Makers and Important Programs
 - Trend Reports/Security Researchers
 - Cybersecurity Concepts
