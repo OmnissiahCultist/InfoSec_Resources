@@ -1,7 +1,7 @@
 # Web Tools 🕵️
 - Primary Tools 🛡️  refer to implicit/explicit cybersecurity application.
 - Secondary Tools 🛠️ are relevant tools that can assist in intelligence gathering/displaying.
-- 🚨 Please always be careful about entering company proprietary information into any website that you have not explicitly been authorized to do so! 🚨
+- 🚨🚨🚨 Please always be careful about entering company proprietary information into any website that you have not explicitly been authorized to do so! 🚨🚨🚨
 
 <br>
 
@@ -33,7 +33,7 @@
 
 ### PimEyes 🛡️
 - **Website**: [https://pimeyes.com](https://pimeyes.com)
-- **TLDR**: Powerful AI driven reverse image search. Free/premium service, please watch for the explicit content filter.
+- **TLDR**: Powerful AI driven reverse image search. Free/premium user service, please watch for the explicit content filter.
 
 <br>
 
@@ -49,11 +49,11 @@
 
 ### Ino Reader 🛠️
 - **Website**: [https://inoreader.com](https://inoreader.com)
-- **TLDR**: A news app that is very customizable to intake specific news feeds from user selected sources to keep them in custom user managed feeds.
+- **TLDR**: A news app that is very customizable to intake specific news feeds from user selected sources to keep them in custom user managed feeds. Free/premium user service.
 
 ### Gound News 🛠️
 - **Website**: [https://ground.news](https://ground.news)
-- **TLDR**: A news app with specific focus on aggregating multiple news feeds for the same article, summarizing the key facts, then displaying any political bias/articles used to feed for the information. Free/premium service.
+- **TLDR**: A news app with specific focus on aggregating multiple news feeds for the same article, summarizing the key facts, then displaying any political bias/articles used to feed for the information. Free/premium user service.
 
 <br>
 
