@@ -1,10 +1,7 @@
 # GRC Regulatory Bodies and Important Policies 🏛️  
-These are sorted by **global** or **domestic (US)**.
+These are sorted by **global** or **domestic (US)** and **organized by date of establishment**, starting from the **most recent to oldest**.
 
 This section includes **global and domestic agencies**, **laws**, and **compliance standards** that are critical to cybersecurity practices. These resources provide frameworks, best practices, and regulatory guidelines that organizations must adhere to in different industries.
-
-<br>
-<br>
 
 ---
 
@@ -30,26 +27,22 @@ This section includes **global and domestic agencies**, **laws**, and **complian
 - **Website**: [https://www.cisa.gov](https://www.cisa.gov)  
 - **TLDR**: A U.S. federal agency responsible for improving cybersecurity across the public and private sectors, including critical infrastructure protection.
 
-### NIST - National Institute of Standards and Technology (established in 1901)  
-- **Website**: [https://www.nist.gov](https://www.nist.gov)  
-- **TLDR**: A U.S. agency that develops cybersecurity standards, guidelines, and best practices to help organizations improve their security posture.
-
 ### FISMA - Federal Information Security Modernization Act (enacted in 2002)  
 - **Website**: [https://www.cisa.gov/federal-information-security-modernization-act](https://www.cisa.gov/federal-information-security-modernization-act)  
 - **TLDR**: A U.S. law that requires federal agencies to implement and document an information security program to protect government information and operations.
-
-### HIPAA - Health Insurance Portability and Accountability Act (enacted in 1996)  
-- **Website**: [https://www.hhs.gov/hipaa](https://www.hhs.gov/hipaa)  
-- **TLDR**: A U.S. law that sets standards for protecting sensitive patient health information from being disclosed without consent.
-
-### PCI DSS - Payment Card Industry Data Security Standard (introduced in 2004)  
-- **Website**: [https://www.pcisecuritystandards.org](https://www.pcisecuritystandards.org)  
-- **TLDR**: A global standard designed to secure credit card transactions and protect cardholder information from breaches.
 
 ### SOX - Sarbanes-Oxley Act of 2002 (enacted in 2002)  
 - **Website**: [https://www.soxlaw.com](https://www.soxlaw.com)  
 - **TLDR**: A U.S. law that mandates strict financial reporting regulations for public companies to prevent fraud and protect investors.
 
+### HIPAA - Health Insurance Portability and Accountability Act (enacted in 1996)  
+- **Website**: [https://www.hhs.gov/hipaa](https://www.hhs.gov/hipaa)  
+- **TLDR**: A U.S. law that sets standards for protecting sensitive patient health information from being disclosed without consent.
+
 ### GLBA - Gramm-Leach-Bliley Act (enacted in 1999)  
 - **Website**: [https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act)  
 - **TLDR**: A U.S. law that requires financial institutions to explain how they share and protect their customers' private information.
+
+### NIST - National Institute of Standards and Technology (established in 1901)  
+- **Website**: [https://www.nist.gov](https://www.nist.gov)  
+- **TLDR**: A U.S. agency that develops cybersecurity standards, guidelines, and best practices to help organizations improve their security posture.
