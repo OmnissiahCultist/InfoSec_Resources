@@ -13,7 +13,7 @@
 
 ### URLscanner.io 🛡️
 - **Website**: [https://urlscan.io](https://urlscan.io)
-- **TLDR**: Another powerful URL analysis tool with free and premium features.
+- **TLDR**: Another powerful URL analysis tool. Free/premium user service.
 
 <br>
 
@@ -37,11 +37,15 @@
 
 <br>
 
-## Popular Services Outage Detection
+## Specific Online Detectors
 
 ### Downdetector 🛠️
 - **Website**: [https://downdetector.com](https://downdetector.com)
 - **TLDR**: A tool for checking the availability of major services and detecting outages.
+
+### Layoffs.fyi 🛠️
+- **Website**: [https://layoffs.fyi](https://layoffs.fyi)
+- **TLDR**: Webapp by Roger Lee tracking the most recent layoffs at some of the largest tech companies. Useful for watching trends in tech (and for awareness in case you are job hunting lol).
 
 <br>
 
