@@ -4,7 +4,7 @@
 - 🚨🚨🚨 Please always be careful about entering company proprietary information into any website that you have not explicitly been authorized to do so! 🚨🚨🚨
 
 <br>
-
+---
 ## URL/File Integrity Check
 
 ### VirusTotal 🛡️
