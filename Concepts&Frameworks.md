@@ -6,7 +6,7 @@ This section includes **key cybersecurity concepts** and **important frameworks*
 
 ---
 
-## Concepts 💡
+## Concepts 
 
 ### Pyramid of Pain  
 - **Website**: [https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)  
@@ -20,7 +20,7 @@ This section includes **key cybersecurity concepts** and **important frameworks*
 
 ---
 
-## Frameworks 📋
+## Frameworks 
 
 ### NIST SP 800-53 (Security and Privacy Controls)  
 - **Website**: [https://csrc.nist.gov/publications/sp](https://csrc.nist.gov/publications/sp)  
@@ -34,7 +34,7 @@ This section includes **key cybersecurity concepts** and **important frameworks*
 
 ---
 
-## CVE System 🛠️
+## CVE System 
 
 The **CVE system (Common Vulnerabilities and Exposures)** is a standardized method for identifying and cataloging vulnerabilities in software and hardware. Most malware is identifies with a CVE score based on severity and potential/active exploitation. Below are key components and related resources:
 
