@@ -6,7 +6,15 @@ This section includes **global and domestic agencies**, **laws**, and **complian
 
 ---
 
-## Global Agencies and Regulations 
+## Global Agencies and Regulations
+
+### IEC - International Electrotechnical Commission (founded in 1906)  
+- **Website**: [https://www.iec.ch](https://www.iec.ch)  
+- **TLDR**: A global organization that prepares and publishes international standards for electrical, electronic, and related technologies, including cybersecurity and IT security standards.
+  
+### ISO - International Organization for Standardization (founded in 1947)  
+- **Website**: [https://www.iso.org](https://www.iso.org)  
+- **TLDR**: An independent, non-governmental organization that develops international standards to ensure quality, safety, and efficiency across industries, including cybersecurity.
 
 ### GDPR - General Data Protection Regulation (established in 2016)  
 - **Website**: [https://gdpr-info.eu](https://gdpr-info.eu)  
