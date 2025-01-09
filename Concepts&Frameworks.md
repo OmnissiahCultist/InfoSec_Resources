@@ -1,6 +1,6 @@
 # Key Concepts & Frameworks 📚
 
-This section includes **key cybersecurity concepts** and **important frameworks** used in the industry. It also provides a detailed explanation of the **CVE system**, including related components such as **CVSS** and **NVD**.
+This section includes **key cybersecurity concepts** and **important frameworks** used in the industry and some sources to the sites maintaining them.
 
 <br>
 
