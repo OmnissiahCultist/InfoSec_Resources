@@ -11,7 +11,8 @@
 - **Their YouTube**: [@SimplyCyber](https://www.youtube.com/@SimplyCyber)  
 - **GitHub**: [DJBsec](https://github.com/DJBsec)  
 
-**My thoughts:**  
+**My thoughts:** 
+<br>
   Cybersecurity community that is very supportive and inclusive. They host the "Daily Cyber Threat Brief" weekdays going through some of the top cyber headlines. Their website also offers some training and additional resources (like the GitHub link attached). An awesome team works to support Simply Cyber and it is something I am happy to support too.
 
 <br>
