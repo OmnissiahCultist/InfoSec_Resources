@@ -2,6 +2,8 @@
 
 This section includes **prominent security research groups**, **industry trend reports**, and **threat intelligence resources** to help organizations stay informed about cybersecurity threats and trends.
 
+<br>
+
 ---
 
 ## Security Research Groups
@@ -9,6 +11,8 @@ This section includes **prominent security research groups**, **industry trend r
 ### Unit 42 by Palo Alto Networks  
 - **Website**: [https://unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com)  
 - **TLDR**: Palo Alto Networks' threat intelligence team providing insights on cyber threats, malware, and cybersecurity trends.
+
+<br>
 
 ---
 
@@ -25,6 +29,8 @@ This section includes **prominent security research groups**, **industry trend r
 ### OWASP Top Ten  
 - **Website**: [https://owasp.org/www-project-top-ten/](https://owasp.org/www-project-top-ten/)  
 - **TLDR**: A regularly updated list of the top security risks to web applications, widely considered an industry standard for web security.
+
+<br>
 
 ---
 
