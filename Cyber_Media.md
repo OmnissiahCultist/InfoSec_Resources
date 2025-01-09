@@ -1,6 +1,6 @@
 # Edutainment, Training, and Creators/Content 📺
 
-  This section highlights **cybersecurity media, training platforms, and content creators** that have provided valuable resources and insights. Below are their websites and platforms, along with a description for some of what they can provide, and maybe my experiences.
+  This section highlights **cybersecurity media, training platforms, and content creators** that have provided valuable resources and insights. Bellow are their websites and platforms, along with a description for some of what they can provide, and maybe my experiences.
 
 <br>
 
@@ -11,7 +11,7 @@
 - **Their YouTube**: [@SimplyCyber](https://www.youtube.com/@SimplyCyber)  
 - **GitHub**: [DJBsec](https://github.com/DJBsec)  
 
-**TLDR:**  
+**My thoughts:**  
   Cybersecurity community that is very supportive and inclusive. They host the "Daily Cyber Threat Brief" weekdays going through some of the top cyber headlines. Their website also offers some training and additional resources (like the GitHub link attached). An awesome team works to support Simply Cyber and it is something I am happy to support too.
 
 <br>
