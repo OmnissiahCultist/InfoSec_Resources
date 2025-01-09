@@ -1,10 +1,10 @@
-# Security Researchers and Intelligence Sources 🔍
+# Security Researchers and Intelligence Sources 📊
 
 This section includes **prominent security research groups**, **industry trend reports**, and **threat intelligence resources** to help organizations stay informed about cybersecurity threats and trends.
 
 ---
 
-## Security Research Groups 🧑‍💻
+## Security Research Groups
 
 ### Unit 42 by Palo Alto Networks  
 - **Website**: [https://unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com)  
@@ -12,7 +12,7 @@ This section includes **prominent security research groups**, **industry trend r
 
 ---
 
-## Industry Trend Reports 📊
+## Industry Trend Reports 
 
 ### CrowdStrike Global Threat Report  
 - **Website**: [https://www.crowdstrike.com/resources/reports/global-threat-report/](https://www.crowdstrike.com/resources/reports/global-threat-report/)  
@@ -28,7 +28,7 @@ This section includes **prominent security research groups**, **industry trend r
 
 ---
 
-## Threat Intelligence Resources 🧠
+## Threat Intelligence Resources 
 
 ### National Council of ISACs (Information Sharing and Analysis Centers)  
 - **Website**: [https://www.nationalisacs.org](https://www.nationalisacs.org)  
