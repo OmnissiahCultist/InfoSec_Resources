@@ -1,6 +1,6 @@
 # GRC Regulatory Bodies and Important Policies 🏛️  
 
-This section includes **global and domestic agencies**, **laws**, and **compliance standards** that have been critical to cybersecurity practices. They are sorted by **global** or **domestic (US)** and **organized by date of establishment**, starting from the **most recent to oldest**.
+This section includes **global and domestic agencies**, **laws**, and **compliance standards** that have been critical in changing the digital security landscape. They are sorted by **global** or **domestic (US)** and **organized by date of establishment**, starting from the **most recent to oldest**.
 
 <br>
 
