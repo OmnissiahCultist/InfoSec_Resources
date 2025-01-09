@@ -6,20 +6,38 @@ This section includes **key cybersecurity concepts** and **important frameworks*
 
 ---
 
-## Concepts 
+## Concepts
 
 ### Pyramid of Pain  
 - **Website**: [https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)  
-- **Description**: A concept that depicts the "pain" cybercriminals feel when they are denied at various levels of attack indicators, from hash values to tactics.
+- **Description**: Developed by **David J. Bianco**, the Pyramid of Pain depicts the "pain" cybercriminals feel when denied at various levels of attack indicators, from hash values to tactics.
 
 ### Loeb Model  
 - **Website**: [https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model](https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model)  
-- **Description**: A model used to estimate the optimal amount an organization should invest in cybersecurity to reduce the probability of a data breach.
+- **Description**: Created by **Lawrence A. Gordon** and **Martin P. Loeb**, this model estimates the optimal amount an organization should invest in cybersecurity to reduce the probability of a data breach.
 
-### Lockheed Martin Cyber Kill Chain  
+### Cyber Kill Chain  
 - **Website**: [https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)  
-- **Description**: A cybersecurity framework that outlines the stages of a cyberattack. Referred too frequently to discuss the flow of an attack at each stage.
+- **Description**: Developed by **Lockheed Martin**, the Cyber Kill Chain outlines the stages of a cyberattack at each phase of an attack life cycle during active exploitation.
 
+### Zero Trust Model  
+- **Website**: [https://csrc.nist.gov/publications/detail/sp/800-207/final](https://csrc.nist.gov/publications/detail/sp/800-207/final)  
+- **Description**: Introduced by **John Kindervag** at **Forrester Research** in 2010, the Zero Trust Model assumes no user or device is trustworthy by default. It requires continuous verification of access and focuses on securing data and applications regardless of where they are hosted or accessed from. The concept was later formalized by **NIST** in their **SP 800-207** publication.
+
+### Defense in Depth  
+- **Website**: [https://www.cisa.gov/defense-depth](https://www.cisa.gov/defense-depth)  
+- **Description**: Originally a **military strategy** adapted for cybersecurity, Defense in Depth emphasizes a layered approach to security. Popularized by organizations like the **SANS Institute** and **CISA**, the concept has been applied to cybersecurity. The idea is having defenses at each level of the organization, so that a specific defense **or control** can fail but the system does not break due to layered support.
+
+### STRIDE Model  
+- **Website**: [https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats)  
+- **Description**: Developed by **Microsoft** in the late 1990s, the STRIDE Model is a threat modeling framework used to categorize and address six common types of threats:  
+  - **Spoofing**
+  - **Tampering** 
+  - **Repudiation** 
+  - **Information Disclosure** 
+  - **Denial of Service**  
+  - **Elevation of Privilege**
+    
 <br>
 
 ---
