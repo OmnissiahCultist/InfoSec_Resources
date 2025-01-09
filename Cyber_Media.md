@@ -35,7 +35,7 @@ BlackPerl creates tons of great cybersecurity content, primarily focused on digi
 - **Website**: [https://www.silicondojo.com](https://www.silicondojo.com)  
 - **Their YouTube**: [@elithecomputerguy](https://www.youtube.com/@elithecomputerguy)  
 
-***My thoughts...**
+**My thoughts...**
 
 I watched a decent amount of Eli's courses and I can say I have gained a lot from them, especially as someone starting out in IT. Eli offers plenty of videos, some personal, but much of his video content are full length lectures that he hosts from his class Silicon Dojo.
 The courses are able to be attended live or watched afterwards, with a pay what you can if you can policy. Eli's videos cover various broad topics within IT (concepts, networking, cybersecurity, ppogramming, etc.) so there is plenty of content to absorb. In person (if you live nearby) Silicon Dojo hosts physical lectures where resources (like computers) are provided to follow along and engage in labs.
