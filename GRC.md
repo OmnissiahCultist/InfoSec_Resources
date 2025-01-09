@@ -7,7 +7,7 @@ This section includes **global and domestic agencies**, **laws**, and **complian
 
 ---
 
-## Global Agencies and Regulations 🌐  
+## Global Agencies and Regulations 
 
 ### GDPR - General Data Protection Regulation (established in 2016)  
 - **Website**: [https://gdpr-info.eu](https://gdpr-info.eu)  
@@ -25,7 +25,7 @@ This section includes **global and domestic agencies**, **laws**, and **complian
 
 ---
 
-## Domestic (US) Agencies and Regulations 🇺🇸  
+## Domestic (US) Agencies and Regulations 
 
 ### CISA - Cybersecurity and Infrastructure Security Agency (established in 2018)  
 - **Website**: [https://www.cisa.gov](https://www.cisa.gov)  
