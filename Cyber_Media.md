@@ -1,4 +1,4 @@
-# Edutainment, Training, and Creators/Content 📚
+# Edutainment, Training, and Creators/Content 📺
 
 This section highlights **cybersecurity media, training platforms, and content creators** that I personally recommend and have benefitted greatly from. I will try and describe the resources avaliable from each creator to the best of my ability.
 
