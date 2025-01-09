@@ -43,7 +43,7 @@
 
 ### MITRE ATT&CK 🛡️  
 - **Website**: [https://attack.mitre.org](https://attack.mitre.org)  
-- **TLDR**: **ATT&CK** stands for **Adversarial Tactics, Techniques, and Common Knowledge**. It is a globally accessible knowledge base that documents adversary behavior and provides a comprehensive framework for understanding and mitigating cybersecurity threats. Maintained by MITRE, it is widely used by security teams to map out attack vectors and improve incident response.
+- **TLDR**: ATT&CK stands for Adversarial Tactics, Techniques, and Common Knowledge. It is a globally accessible knowledge base that documents adversary behavior and provides a comprehensive framework for understanding and mitigating cybersecurity threats. Maintained by MITRE, it is widely used by security teams to map out attack vectors and improve incident response.
 
 <br>
 
