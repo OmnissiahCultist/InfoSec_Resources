@@ -1,6 +1,6 @@
 # GRC Regulatory Bodies and Important Policies 🏛️  
 
-This section includes **global and domestic agencies**, **laws**, and **compliance standards** that are critical to cybersecurity practices. These resources provide frameworks, best practices, and regulatory guidelines that organizations must adhere to in different industries. They are sorted by **global** or **domestic (US)** and **organized by date of establishment**, starting from the **most recent to oldest**.
+This section includes **global and domestic agencies**, **laws**, and **compliance standards** that have been critical to cybersecurity practices. They are sorted by **global** or **domestic (US)** and **organized by date of establishment**, starting from the **most recent to oldest**.
 
 <br>
 
@@ -8,17 +8,13 @@ This section includes **global and domestic agencies**, **laws**, and **complian
 
 ## Global Agencies and Regulations
 
-### IEC - International Electrotechnical Commission (founded in 1906)  
-- **Website**: [https://www.iec.ch](https://www.iec.ch)  
-- **TLDR**: A global organization that prepares and publishes international standards for electrical, electronic, and related technologies, including cybersecurity and IT security standards.
-  
-### ISO - International Organization for Standardization (founded in 1947)  
-- **Website**: [https://www.iso.org](https://www.iso.org)  
-- **TLDR**: An independent, non-governmental organization that develops international standards to ensure quality, safety, and efficiency across industries, including cybersecurity.
-
 ### GDPR - General Data Protection Regulation (established in 2016)  
 - **Website**: [https://gdpr-info.eu](https://gdpr-info.eu)  
 - **TLDR**: A comprehensive data privacy law in the European Union that governs how personal data must be collected, processed, and protected by organizations.
+
+### ISO/IEC 27001 - Information Security Management Standard (enacted in 2005)  
+- **Website**: [https://www.iso.org/isoiec-27001-information-security.html](https://www.iso.org/isoiec-27001-information-security.html)  
+- **TLDR**: An internationally recognized standard for establishing, implementing, maintaining, and improving an information security management system (ISMS).
 
 ### IANA - Internet Assigned Numbers Authority (established in 1988)  
 - **Website**: [https://www.iana.org](https://www.iana.org)  
@@ -28,6 +24,14 @@ This section includes **global and domestic agencies**, **laws**, and **complian
 - **Website**: [https://www.ietf.org](https://www.ietf.org)  
 - **TLDR**: Develops and promotes voluntary internet standards, including protocols like HTTP and DNS. Their publications are known as RFCs (Requests for Comments).
 
+### ISO - International Organization for Standardization (established in 1947)  
+- **Website**: [https://www.iso.org](https://www.iso.org)  
+- **TLDR**: An independent, non-governmental organization that develops international standards to ensure quality, safety, and efficiency across industries, including cybersecurity.
+  
+### IEC - International Electrotechnical Commission (established in 1906)  
+- **Website**: [https://www.iec.ch](https://www.iec.ch)  
+- **TLDR**: A global organization that prepares and publishes international standards for electrical, electronic, and related technologies, including cybersecurity and IT security standards.
+  
 <br>
 
 ---
