@@ -1,6 +1,6 @@
 # Key Concepts & Frameworks 📚
 
-This section includes **key cybersecurity concepts** and **important frameworks** used in the industry and some sources to the sites maintaining them.
+This section includes **key cybersecurity concepts** and **important frameworks** used in the industry and some sources to the sites maintaining them. More to serve as a quick reference list for the concepts/verify frameworks.
 
 <br>
 
@@ -23,12 +23,12 @@ This section includes **key cybersecurity concepts** and **important frameworks*
 ## Frameworks 
 
 ### NIST SP 800-53 (Security and Privacy Controls)  
-- **Website**: [https://csrc.nist.gov/publications/sp](https://csrc.nist.gov/publications/sp)  
-- **Description**: A comprehensive set of security and privacy controls for federal information systems and organizations, widely adopted across industries.
+- **Website**: [https://csrc.nist.gov/publications/sp](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) 
+- **Description**: A comprehensive set of security and privacy controls for federal information systems and organizations. One of the key SP's mentioned for it's significance as a kind of security control "dictionary". Check to ensure the most recent version is viewed.
 
 ### NIST Cybersecurity Framework  
 - **Website**: [https://www.nist.gov/cyberframework](https://www.nist.gov/cyberframework)  
-- **Description**: A voluntary framework consisting of standards, guidelines, and best practices to manage cybersecurity-related risk.
+- **Description**: A voluntary framework consisting of standards, guidelines, and best practices to manage cybersecurity-related risk. The other key NIST publication referenced frequently (CSF), the website also offers additional resources for organizations to set a baseline and goals for their cybersecurity programs.
 
 <br>
 
@@ -36,7 +36,7 @@ This section includes **key cybersecurity concepts** and **important frameworks*
 
 ## CVE System 
 
-The **CVE system (Common Vulnerabilities and Exposures)** is a standardized method for identifying and cataloging vulnerabilities in software and hardware. Most malware is identifies with a CVE score based on severity and potential/active exploitation. Below are key components and related resources:
+The **CVE system (Common Vulnerabilities and Exposures)** is a standardized method for identifying and cataloging vulnerabilities in software and hardware. Most malware is identifies with a CVE score based on severity and potential/active exploitation. Below are some of the official websites and groups supporting the CVE and CVSS infrastructure.
 
 ### CVE - Common Vulnerabilities and Exposures  
 - **Website**: [https://www.cve.org/](https://www.cve.org/)  
