@@ -34,7 +34,7 @@ This section includes **prominent security research groups**, **industry trend r
 
 ---
 
-## Threat Intelligence Resources 
+## Industry Communication/Collaboration
 
 ### National Council of ISACs (Information Sharing and Analysis Centers)  
 - **Website**: [https://www.nationalisacs.org](https://www.nationalisacs.org)  
