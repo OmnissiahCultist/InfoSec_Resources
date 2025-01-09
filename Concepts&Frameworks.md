@@ -2,6 +2,8 @@
 
 This section includes **key cybersecurity concepts** and **important frameworks** used in the industry. It also provides a detailed explanation of the **CVE system**, including related components such as **CVSS** and **NVD**.
 
+<br>
+
 ---
 
 ## Concepts 💡
@@ -14,6 +16,8 @@ This section includes **key cybersecurity concepts** and **important frameworks*
 - **Website**: [https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model](https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model)  
 - **Description**: A model used to estimate the optimal amount an organization should invest in cybersecurity to reduce the probability of a data breach.
 
+<br>
+
 ---
 
 ## Frameworks 📋
@@ -25,6 +29,8 @@ This section includes **key cybersecurity concepts** and **important frameworks*
 ### NIST Cybersecurity Framework  
 - **Website**: [https://www.nist.gov/cyberframework](https://www.nist.gov/cyberframework)  
 - **Description**: A voluntary framework consisting of standards, guidelines, and best practices to manage cybersecurity-related risk.
+
+<br>
 
 ---
 
