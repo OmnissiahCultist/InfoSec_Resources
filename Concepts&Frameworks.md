@@ -16,6 +16,10 @@ This section includes **key cybersecurity concepts** and **important frameworks*
 - **Website**: [https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model](https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model)  
 - **Description**: A model used to estimate the optimal amount an organization should invest in cybersecurity to reduce the probability of a data breach.
 
+### Lockheed Martin Cyber Kill Chain  
+- **Website**: [https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)  
+- **Description**: A cybersecurity framework that outlines the stages of a cyberattack. Referred too frequently to discuss the flow of an attack at each stage.
+
 <br>
 
 ---
