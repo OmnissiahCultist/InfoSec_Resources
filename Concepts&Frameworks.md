@@ -30,7 +30,7 @@ This section includes **key cybersecurity concepts** and **important frameworks*
 
 ## CVE System 🛠️
 
-The **CVE system (Common Vulnerabilities and Exposures)** is a standardized method for identifying and cataloging vulnerabilities in software and hardware. Below are key components and related resources:
+The **CVE system (Common Vulnerabilities and Exposures)** is a standardized method for identifying and cataloging vulnerabilities in software and hardware. Most malware is identifies with a CVE score based on severity and potential/active exploitation. Below are key components and related resources:
 
 ### CVE - Common Vulnerabilities and Exposures  
 - **Website**: [https://www.cve.org/](https://www.cve.org/)  
