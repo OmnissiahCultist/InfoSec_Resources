@@ -41,6 +41,10 @@
 - **Website**: [https://cheatsheetseries.owasp.org/index.html](https://cheatsheetseries.owasp.org/index.html)  
 - **TLDR**: A collection of concise, actionable security best practices for developers and security professionals, maintained by OWASP.
 
+### MITRE ATT&CK 🛡️  
+- **Website**: [https://attack.mitre.org](https://attack.mitre.org)  
+- **TLDR**: **ATT&CK** stands for **Adversarial Tactics, Techniques, and Common Knowledge**. It is a globally accessible knowledge base that documents adversary behavior and provides a comprehensive framework for understanding and mitigating cybersecurity threats. Maintained by MITRE, it is widely used by security teams to map out attack vectors and improve incident response.
+
 <br>
 
 ---
