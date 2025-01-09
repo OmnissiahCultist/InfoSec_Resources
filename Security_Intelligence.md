@@ -1,6 +1,6 @@
 # Security Researchers and Intelligence Sources 📊
 
-This section includes **prominent security research groups**, **industry trend reports**, and **threat intelligence resources** to help organizations stay informed about cybersecurity threats and trends.
+    This section includes **prominent security research groups**, **industry trend reports**, and **threat intelligence resources** to help organizations stay informed about cybersecurity threats and trends.
 
 <br>
 
