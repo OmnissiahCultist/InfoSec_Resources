@@ -1,4 +1,5 @@
 # Web Tools 🕵️
+- This section has tools and associated URLs to access them.
 - Primary Tools 🛡️  refer to implicit/explicit cybersecurity application.
 - Secondary Tools 🛠️ are relevant tools that can assist in intelligence gathering/displaying.
 - 🚨🚨🚨 Please always be careful about entering company proprietary information into any website that you have not explicitly been authorized to do so! 🚨🚨🚨
