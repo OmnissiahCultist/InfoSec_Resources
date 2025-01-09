@@ -1,13 +1,11 @@
-# Cyber-Sources
+# Here are useful Cybersecurity resources...
 
-This list is not exhaustive!
+These links are a curated collection of cybersecurity resources that I’ve personally engaged with and found valuable. This list is by no means exhaustive, but it various tools, frameworks, reports, and educational content relevant to cybersecurity that I find useful and would like quick reference too.
 
-Here are a collection of sources that I have engaged with or find useful in no particular order.
+This repository is a **living document** that I will update periodically.
 
-I will do my best to explain the significance of each and why I find it useful as a resource in each individual file.
-
-I will also update this list periodically as I see with respect to relevance to my use and my perceived relevance to the industry.
-
+<br>
+<br>
 
 # Resource Categories
 
@@ -16,10 +14,3 @@ I will also update this list periodically as I see with respect to relevance to 
 - [Research, Intelligence, and Trends](Security_Intelligence.md)
 - [Key Concepts & Frameworks](Concepts&Frameworks.md)
 - [Content/Trainings/Creators I Recommend](Cyber_Media.md)
-
-
-#To do
-
-- Space out all beginnings of block texts
-- Merge formatting, de-ai things to make in your own words, choose between having the webtools as the base to change the format for everything else or not.
-- Decide on tone, naming conventions, and the organization of the document
