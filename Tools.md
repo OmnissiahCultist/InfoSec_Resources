@@ -4,7 +4,9 @@
 - 🚨🚨🚨 Please always be careful about entering company proprietary information into any website that you have not explicitly been authorized to do so! 🚨🚨🚨
 
 <br>
+
 ---
+
 ## URL/File Integrity Check
 
 ### VirusTotal 🛡️
@@ -17,6 +19,8 @@
 
 <br>
 
+---
+
 ## Credential Integrity Check
 
 ### Have I Been Pwned 🛡️
@@ -24,6 +28,8 @@
 - **TLDR**: A popular resource to check if credentials have been leaked in a data breach.
 
 <br>
+
+---
 
 ## Cheat Sheets for Incident Response
 
@@ -37,6 +43,8 @@
 
 <br>
 
+---
+
 ## Open Source Intelligence (OSINT)
 
 ### OSINT Framework 🛡️
@@ -48,6 +56,8 @@
 - **TLDR**: Powerful AI driven reverse image search. Free/premium user service, please watch for the explicit content filter.
 
 <br>
+
+---
 
 ## Specific Online Detectors
 
@@ -61,6 +71,8 @@
 
 <br>
 
+---
+
 ## News Feed Apps
 
 ### Ino Reader 🛠️
@@ -72,6 +84,8 @@
 - **TLDR**: A news app with specific focus on aggregating multiple news feeds for the same article, summarizing the key facts, then displaying any political bias/articles used to feed for the information. Free/premium user service.
 
 <br>
+
+---
 
 ## Diagram/Flowchart Creator
 
