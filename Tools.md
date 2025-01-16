@@ -65,7 +65,7 @@
   <summary>News Feed Apps</summary>
 
 - [Ino Reader 🛠️](#ino-reader-️)
-- [Ground News 🛠️](#ground-news-)
+- [Ground News 🛠️]([#ground-news-])
 
 </details>
 
@@ -172,7 +172,7 @@
 
 ### Gound News 🛠️
 - **Website**: [https://ground.news](https://ground.news)
-- **TLDR**: A news app with specific focus on aggregating multiple news feeds for the same article, summarizing the key facts, then displaying any political bias/articles used to feed for the information. Free/premium user service.
+- **TLDR**: A news app with specific focus on aggregating multiple news feeds for the same article, summarizing the key facts, then displaying any political bias/articles used to feed for the information. Free/premium user service - no I am not sponsored by them :(
 
 <br>
 
