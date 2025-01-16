@@ -65,7 +65,7 @@
   <summary>News Feed Apps</summary>
 
 - [Ino Reader 🛠️](#ino-reader-️)
-- [Ground News 🛠️](#ground-news-️)
+- [Ground News 🛠️](#ground.news)
 
 </details>
 
