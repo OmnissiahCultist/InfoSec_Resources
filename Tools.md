@@ -65,7 +65,9 @@
   <summary>News Feed Apps</summary>
 
 - [Ino Reader 🛠️](#ino-reader-️)
-- [Ground News](#ground-news-)
+- [Ground News 🛠️](#ground-news-)
+- This link ^ refuses to work and I am actively trouble shooting it.
+<!-- Markdown hates this ground news link not sure why https://github.com/OmnissiahCultist/InfoSec_Resources/blob/main/Tools.md#gound-news-%EF%B8%8F -->
 
 </details>
 
