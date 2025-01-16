@@ -8,6 +8,75 @@
 
 ---
 
+## Table of Contents 📜
+
+<details>
+  <summary>URL/File Integrity Check</summary>
+
+- [VirusTotal 🛡️](#virustotal-️)
+- [URLscanner.io 🛡️](#urlscannerio-️)
+
+</details>
+
+<details>
+  <summary>Credential Integrity Check</summary>
+
+- [Have I Been Pwned 🛡️](#have-i-been-pwned-️)
+
+</details>
+
+<details>
+  <summary>Cheat Sheets for Incident Response</summary>
+
+- [SANS Ultimate List of Cheat Sheets 🛡️](#sans-ultimate-list-of-cheat-sheets-️)
+- [OWASP Cheat Sheet Series 🛡️](#owasp-cheat-sheet-series-️)
+- [MITRE ATT&CK 🛡️](#mitre-attck-️)
+
+</details>
+
+<details>
+  <summary>Open Source Intelligence (OSINT)</summary>
+
+- [OSINT Framework 🛡️](#osint-framework-️)
+- [PimEyes 🛡️](#pimeyes-️)
+
+</details>
+
+<details>
+  <summary>MAC Address Lookup</summary>
+
+- [Wireshark OUI Lookup Tool 🛡️](#wireshark-oui-lookup-tool-️)
+
+</details>
+
+<details>
+  <summary>Specific Web Detectors</summary>
+
+- [Shodan 🛡️](#shodan-️)
+- [Downdetector 🛠️](#downdetector-️)
+- [Layoffs.fyi 🛠️](#layoffsfyi-️)
+
+</details>
+
+<details>
+  <summary>News Feed Apps</summary>
+
+- [Ino Reader 🛠️](#ino-reader-️)
+- [Ground News 🛠️](#ground-news-️)
+
+</details>
+
+<details>
+  <summary>Diagram/Flowchart Creator</summary>
+
+- [Draw.io 🛠️](#drawio-️)
+
+</details>
+
+<br>
+
+---
+
 ## URL/File Integrity Check
 
 ### VirusTotal 🛡️
