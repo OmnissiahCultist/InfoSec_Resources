@@ -7,7 +7,7 @@ This section includes **global and domestic agencies**, **laws**, and **complian
 ---
 
 ## Table of Contents
-- Below are dropdown sections for each category, with links that allow you to jump quickly to the tool's link and TLDR.
+- Below are dropdown sections for each category, with links that allow you to jump quickly to the links and TLDR.
 
 <br>
 
