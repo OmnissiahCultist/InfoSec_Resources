@@ -64,7 +64,21 @@
 
 ---
 
-## Specific Online Detectors
+## MAC Address Lookup
+
+### Wireshark OUI Lookup Tool 🛡️  
+- **Website**: [https://www.wireshark.org/tools/oui-lookup.html](https://www.wireshark.org/tools/oui-lookup.html)  
+- **TLDR**: A tool provided by Wireshark to look up Organizationally Unique Identifiers (OUIs) associated with MAC addresses. Helpful verifying tool when a MAC address is known.
+
+<br>
+
+---
+
+## Specific Web Detectors
+
+### Shodan 🛡️  
+- **Website**: [https://www.shodan.io/](https://www.shodan.io/)  
+- **TLDR**: A search engine that indexes internet-connected devices by continuosly scanning the web. Shodan lists exposed systems, open ports, and misconfigurations and is widely used for threat intelligence, penetration testing, and network reconnaissance for this reason.
 
 ### Downdetector 🛠️
 - **Website**: [https://downdetector.com](https://downdetector.com)
