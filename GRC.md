@@ -2,11 +2,14 @@
 
 This section includes **global and domestic agencies**, **laws**, and **compliance standards** that have been critical in changing the digital security landscape. They are sorted by **global** or **domestic (US)** and **organized by date of establishment**, starting from the **most recent to oldest**.
 
-## Table of Contents
-
 <br>
 
 ---
+
+## Table of Contents
+- Below are dropdown sections for each category, with links that allow you to jump quickly to the tool's link and TLDR.
+
+<br>
 
 <details>
   <summary>Global Agencies and Regulations</summary>
