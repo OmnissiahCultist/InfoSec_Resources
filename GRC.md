@@ -2,6 +2,36 @@
 
 This section includes **global and domestic agencies**, **laws**, and **compliance standards** that have been critical in changing the digital security landscape. They are sorted by **global** or **domestic (US)** and **organized by date of establishment**, starting from the **most recent to oldest**.
 
+## Table of Contents
+
+<br>
+
+---
+
+<details>
+  <summary>Global Agencies and Regulations</summary>
+
+- [GDPR - General Data Protection Regulation (2016)](#gdpr---general-data-protection-regulation-established-in-2016)
+- [ISO/IEC 27001 - Information Security Management Standard (2005)](#isoiec-27001---information-security-management-standard-enacted-in-2005)
+- [IANA - Internet Assigned Numbers Authority (1988)](#iana---internet-assigned-numbers-authority-established-in-1988)
+- [IETF - Internet Engineering Task Force (1986)](#ietf---internet-engineering-task-force-established-in-1986)
+- [ISO - International Organization for Standardization (1947)](#iso---international-organization-for-standardization-established-in-1947)
+- [IEC - International Electrotechnical Commission (1906)](#iec---international-electrotechnical-commission-established-in-1906)
+
+</details>
+
+<details>
+  <summary>Domestic (US) Agencies and Regulations</summary>
+
+- [CISA - Cybersecurity and Infrastructure Security Agency (2018)](#cisa---cybersecurity-and-infrastructure-security-agency-established-in-2018)
+- [FISMA - Federal Information Security Modernization Act (2002)](#fisma---federal-information-security-modernization-act-enacted-in-2002)
+- [SOX - Sarbanes-Oxley Act of 2002 (2002)](#sox---sarbanes-oxley-act-of-2002-enacted-in-2002)
+- [HIPAA - Health Insurance Portability and Accountability Act (1996)](#hipaa---health-insurance-portability-and-accountability-act-enacted-in-1996)
+- [GLBA - Gramm-Leach-Bliley Act (1999)](#glba---gramm-leach-bliley-act-enacted-in-1999)
+- [NIST - National Institute of Standards and Technology (1901)](#nist---national-institute-of-standards-and-technology-established-in-1901)
+
+</details>
+
 <br>
 
 ---
