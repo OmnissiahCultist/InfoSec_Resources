@@ -24,6 +24,10 @@ This section includes **global and domestic agencies**, **laws**, and **complian
 - **Website**: [https://www.ietf.org](https://www.ietf.org)  
 - **TLDR**: Develops and promotes voluntary internet standards, including protocols like HTTP and DNS. Their publications are known as RFCs (Requests for Comments).
 
+### IEEE - Institute of Electrical and Electronics Engineers (established in 1963)  
+- **Website**: [https://www.ieee.org](https://www.ieee.org)  
+- **TLDR**: A global professional organization that develops technology standards, including cybersecurity and networking protocols. IEEE is widely known for establishing standards like IEEE 802 (Wi-Fi, Ethernet) and contributing to security best practices in various industries.
+
 ### ISO - International Organization for Standardization (established in 1947)  
 - **Website**: [https://www.iso.org](https://www.iso.org)  
 - **TLDR**: An independent, non-governmental organization that develops international standards to ensure quality, safety, and efficiency across industries, including cybersecurity.
