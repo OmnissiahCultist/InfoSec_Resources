@@ -16,6 +16,7 @@ This section includes **global and domestic agencies**, **laws**, and **complian
 
 - [GDPR - General Data Protection Regulation (2016)](#gdpr---general-data-protection-regulation-established-in-2016)
 - [ISO/IEC 27001 - Information Security Management Standard (2005)](#isoiec-27001---information-security-management-standard-enacted-in-2005)
+- [CIS - Center for Internet Security (2000)](#cis---center-for-internet-security-established-in-2000)
 - [IANA - Internet Assigned Numbers Authority (1988)](#iana---internet-assigned-numbers-authority-established-in-1988)
 - [IETF - Internet Engineering Task Force (1986)](#ietf---internet-engineering-task-force-established-in-1986)
 - [ISO - International Organization for Standardization (1947)](#iso---international-organization-for-standardization-established-in-1947)
@@ -48,6 +49,10 @@ This section includes **global and domestic agencies**, **laws**, and **complian
 ### ISO/IEC 27001 - Information Security Management Standard (enacted in 2005)  
 - **Website**: [https://www.iso.org/isoiec-27001-information-security.html](https://www.iso.org/isoiec-27001-information-security.html)  
 - **TLDR**: An internationally recognized standard for establishing, implementing, maintaining, and improving an information security management system (ISMS).
+  
+### CIS - Center for Internet Security (established in 2000)  
+- **Website**: [https://www.cisecurity.org](https://www.cisecurity.org)  
+- **TLDR**: A global non-profit organization dedicated to **developing cybersecurity best practices, guidelines, and benchmarks**.
 
 ### IANA - Internet Assigned Numbers Authority (established in 1988)  
 - **Website**: [https://www.iana.org](https://www.iana.org)  
