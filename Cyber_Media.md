@@ -16,6 +16,20 @@
  
 To call this website an awesome resource is an understatement. This website, by Bradley Duncan, offers a wide variety of pcap files with malicious traffic examples inside. The website is set up for you to pick from a list of packet captures and assume the role of a security analyst as you complete the tasks given (usually reflecting identifying the maliscious traffic and other parts of the capture). The author also provides an answer sheet with some short explanations for each packet (mainly with WireShark), there are some other resources on the site as well. Fantastic resource for anyone wishing to better their skills of packet analysis.
 
+<br>
+
+---
+
+## Mimo - Coding Practice/Learning App
+- **Website**: [https://mimo.org/](https://mimo.org/)
+
+**My thoughts...**
+ 
+I discovered Mimo as an app to help me not get rusty at coding and had a great experience with their UI. Their service is free(with ads)/premium and this is the link to their website (and no I am not sponsored). Mimo has several different languages and in my opinion does a good job and is very accessible for practicing or even learning a new coding language on the go. The free version's ads are not invasive (as of me writing this early 2025) and the app has the same feel as Duolingo, I only have experienced using it on iOS but I believe it is avalaible on most other platforms. 
+
+Me Rambling: My thoughts on Duolingo and learning speaking languages are better in a seperate tangent, but what I can say for Mimo is that the application to actual coding is very direct. In my experience taking learning courses online or in person, the structure of Mimo is very similiar to coding courses that slowly build your knowledge of the code will mixing in both guided and unguided coding challenges. I think the acccessibility of Mimo as a resource for (especially someone stretched for time) is it's biggest selling point, that combined with it's great UI and engaging content makes it worth mentioning for me.
+
+
 </details>
 
 <details>
