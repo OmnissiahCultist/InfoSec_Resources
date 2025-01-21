@@ -4,6 +4,23 @@
 
 <br>
 
+<details>
+  <summary><h1>Niche Interactive Resources</h1></summary>
+  
+---
+
+## Malware Traffic (pcap) Analysis Practice
+- **Website**: [https://malware-traffic-analysis.net/](https://malware-traffic-analysis.net/)
+
+**My thoughts...**
+ 
+To call this website an awesome resource is an understatement. This website, by Bradley Duncan, offers a wide variety of pcap files with malicious traffic examples inside. The website is set up for you to pick from a list of packet captures and assume the role of a security analyst as you complete the tasks given (usually reflecting identifying the maliscious traffic and other parts of the capture). The author also provides an answer sheet with some short explanations for each packet (mainly with WireShark), there are some other resources on the site as well. Fantastic resource for anyone wishing to better their skills of packet analysis.
+
+</details>
+
+<details>
+  <summary><h1>Content Creators/Curators</h1></summary>
+
 ---
 
 ## Simply Cyber  
@@ -69,9 +86,24 @@ Professor Messer’s content is well-organized and a household name for certific
 
 ---
 
+## Unit 42 - Palo Alto Networks
+- **Main Website**: [https://unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com)
+- **Learning Hub**: [https://unit42.paloaltonetworks.com/category/learning-hub/](https://unit42.paloaltonetworks.com/category/learning-hub/)  
+- **Cybersecurity Tutorial Archives**: [https://unit42.paloaltonetworks.com/category/cybersecurity-tutorials/](https://unit42.paloaltonetworks.com/category/cybersecurity-tutorials/)  
+
+**My thoughts...**
+
+So I have mentioned unit 42 under the security researcher umbrella but I wanted to highlight their educational content here. They have plenty of resources on their website but two I will highlight are their Learning Hub Archives and their Cybersecurity Tutorial Archives. These two have some fantastic tutorials introducing and refining some key skills and mentions some great topics. All of this content is accompanied by clear explanations and very helpful visuals to guide your understanding.
+
+<br>
+
+---
+
 ## DFIR Diva  
 - **Website**: [https://dfirdiva.com](https://dfirdiva.com)  
 
 **My thoughts...**
  
 DFIR Diva provides excellent resources for anyone interested in digital forensics and incident response. The website is a great starting point for building a career in DFIR and getting guidance on how to proceed with learning, training, or certification (with specific recomendations for affordability).
+
+</details>
