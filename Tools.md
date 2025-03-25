@@ -83,6 +83,7 @@
 
 - [Ino Reader 🛠️](#ino-reader-️)
 - [Ground News 🛠️](#ground-news-)
+  ^GitHub hates this link and I am not sure why :c
 
 </details>
 
