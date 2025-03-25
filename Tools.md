@@ -21,9 +21,11 @@
 </details>
 
 <details>
-  <summary>(Self) Network Identification</summary>
+  <summary>Network Information Gathering</summary>
 
 - [WhatIsMyIPAddress 🛠️](#whatismyipaddress-️)
+- [Shodan 🛡️](#shodan-️)
+- [BuiltWith 🛠️](#builtwith-️)
 
 </details>
 
@@ -43,11 +45,13 @@
 </details>
 
 <details>
-  <summary>Cheat Sheets for Incident Response</summary>
+  <summary>InfoSec Cheat Sheets</summary>
 
 - [SANS Ultimate List of Cheat Sheets 🛡️](#sans-ultimate-list-of-cheat-sheets-️)
 - [OWASP Cheat Sheet Series 🛡️](#owasp-cheat-sheet-series-️)
 - [MITRE ATT&CK 🛡️](#mitre-attck-️)
+- [CIS Benchmarks 🛡️](#cis-benchmarks-️)
+- [HackTricks 🛡️](#hacktricks-️)
 
 </details>
 
@@ -69,7 +73,6 @@
 <details>
   <summary>Specific Web Detectors</summary>
 
-- [Shodan 🛡️](#shodan-️)
 - [Downdetector 🛠️](#downdetector-️)
 - [Layoffs.fyi 🛠️](#layoffsfyi-️)
 
@@ -104,11 +107,19 @@
 
 ---
 
-## (Self) Network Identification
+## Network Information Gathering
 
 ### WhatIsMyIPAddress 🛠️  
 - **Website**: [https://whatismyipaddress.com/](https://whatismyipaddress.com/)  
 - **TLDR**: A quick and easy lookup tool to find your public IP address, hostname, ISP, and geolocation info. Also includes additional tools such as blacklist checks and VPN leak tests.
+
+- ### Shodan 🛡️  
+- **Website**: [https://www.shodan.io/](https://www.shodan.io/)  
+- **TLDR**: A search engine that indexes internet-connected devices by continuosly scanning the web. Shodan lists exposed systems, open ports, and misconfigurations and is widely used for threat intelligence, penetration testing, and network reconnaissance for this reason.
+
+### BuiltWith 🛠️  
+- **Website**: [https://builtwith.com/](https://builtwith.com/)  
+- **TLDR**: Provides detailed information on the technologies used by a website, including server software, analytics tools, frameworks, and more. Useful for reconnaissance and understanding site infrastructure during assessments or research.
 
 <br>
 
@@ -138,7 +149,7 @@
 
 ---
 
-## Cheat Sheets for Incident Response
+## InfoSec Cheat Sheets
 
 ### SANS Ultimate List of Cheat Sheets 🛡️  
 - **Website**: [https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)  
@@ -151,6 +162,14 @@
 ### MITRE ATT&CK 🛡️  
 - **Website**: [https://attack.mitre.org](https://attack.mitre.org)  
 - **TLDR**: ATT&CK stands for Adversarial Tactics, Techniques, and Common Knowledge. It is a globally accessible knowledge base that documents adversary behavior and provides a comprehensive framework for understanding and mitigating cybersecurity threats. Maintained by MITRE, it is widely used by security teams to map out attack vectors and improve incident response.
+
+### CIS Benchmarks 🛡️  
+- **Website**: [https://www.cisecurity.org/cis-benchmarks](https://www.cisecurity.org/cis-benchmarks)  
+- **TLDR**: A set of best practice security configuration guides developed by the Center for Internet Security (CIS). Compliance standards explicitly providing security configuration best practices and hardening recommendations.
+
+### HackTricks 🛡️  
+- **Website**: [https://book.hacktricks.wiki/](https://book.hacktricks.wiki/)  
+- **TLDR**: A continuously updated hacking knowledge base with a ton of resources and recommendations.
 
 <br>
 
@@ -181,10 +200,6 @@
 ---
 
 ## Specific Web Detectors
-
-### Shodan 🛡️  
-- **Website**: [https://www.shodan.io/](https://www.shodan.io/)  
-- **TLDR**: A search engine that indexes internet-connected devices by continuosly scanning the web. Shodan lists exposed systems, open ports, and misconfigurations and is widely used for threat intelligence, penetration testing, and network reconnaissance for this reason.
 
 ### Downdetector 🛠️
 - **Website**: [https://downdetector.com](https://downdetector.com)
