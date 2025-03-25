@@ -14,6 +14,20 @@
 <br>
 
 <details>
+  <summary>Decoding/Encoding</summary>
+
+- [CyberChef 🛠️](#cyberchef-️)
+
+</details>
+
+<details>
+  <summary>(Self) Network Identification</summary>
+
+- [WhatIsMyIPAddress 🛠️](#whatismyipaddress-️)
+
+</details>
+
+<details>
   <summary>URL/File Integrity Check</summary>
 
 - [VirusTotal 🛡️](#virustotal-️)
@@ -66,8 +80,6 @@
 
 - [Ino Reader 🛠️](#ino-reader-️)
 - [Ground News 🛠️](#ground-news-)
-- This link ^ refuses to work and I am actively trouble shooting it.
-<!-- Markdown hates this ground news link not sure why https://github.com/OmnissiahCultist/InfoSec_Resources/blob/main/Tools.md#gound-news-%EF%B8%8F -->
 
 </details>
 
@@ -77,6 +89,26 @@
 - [Draw.io 🛠️](#drawio-️)
 
 </details>
+
+<br>
+
+---
+
+## Decoding/Encoding
+
+### CyberChef 🛠️  
+- **Website**: [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)  
+- **TLDR**: CyberChef is a web app developed by GCHQ that enables a plethora of encoding/decoding algorithms for popular cryptographic functions.
+
+<br>
+
+---
+
+## (Self) Network Identification
+
+### WhatIsMyIPAddress 🛠️  
+- **Website**: [https://whatismyipaddress.com/](https://whatismyipaddress.com/)  
+- **TLDR**: A quick and easy lookup tool to find your public IP address, hostname, ISP, and geolocation info. Also includes additional tools such as blacklist checks and VPN leak tests.
 
 <br>
 
@@ -172,7 +204,7 @@
 - **Website**: [https://inoreader.com](https://inoreader.com)
 - **TLDR**: A news app that is very customizable to intake specific news feeds from user selected sources to keep them in custom user managed feeds. Free/premium user service.
 
-### Gound News 🛠️
+### Ground News 🛠️
 - **Website**: [https://ground.news](https://ground.news)
 - **TLDR**: A news app with specific focus on aggregating multiple news feeds for the same article, summarizing the key facts, then displaying any political bias/articles used to feed for the information. Free/premium user service - no I am not sponsored by them :(
 
@@ -184,4 +216,4 @@
 
 ### Draw.io 🛠️
 - **Website**: [https://app.diagrams.net](https://app.diagrams.net)
-- **TLDR**: App useful to make proof of concept flowchart/diagrams for IT netowrk and system archiecture.
+- **TLDR**: App useful to make proof of concept flowchart/diagrams for IT network and system architecture.
