@@ -114,7 +114,7 @@
 - **Website**: [https://whatismyipaddress.com/](https://whatismyipaddress.com/)  
 - **TLDR**: A quick and easy lookup tool to find your public IP address, hostname, ISP, and geolocation info. Also includes additional tools such as blacklist checks and VPN leak tests.
 
-- ### Shodan 🛡️  
+### Shodan 🛡️  
 - **Website**: [https://www.shodan.io/](https://www.shodan.io/)  
 - **TLDR**: A search engine that indexes internet-connected devices by continuosly scanning the web. Shodan lists exposed systems, open ports, and misconfigurations and is widely used for threat intelligence, penetration testing, and network reconnaissance for this reason.
 
