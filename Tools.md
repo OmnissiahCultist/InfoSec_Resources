@@ -16,7 +16,7 @@
 <details>
   <summary>Decoding/Encoding</summary>
 
-- [CyberChef 🛠️](#cyberchef-️)
+- [CyberChef 🛡️](#cyberchef-️)
 
 </details>
 
@@ -100,7 +100,7 @@
 
 ## Decoding/Encoding
 
-### CyberChef 🛠️  
+### CyberChef 🛡️
 - **Website**: [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)  
 - **TLDR**: CyberChef is a web app developed by GCHQ that enables a plethora of encoding/decoding algorithms for popular cryptographic functions.
 
